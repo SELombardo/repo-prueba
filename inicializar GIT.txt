@@ -13,8 +13,9 @@
 /* DIRECTORIO DE TRABAJO -> STAGING ÁREA -> REPOSITORIO LOCAL */
 
     git status                  -> info del estado actual del repositorio
-
+    git log                     ->  para ver el historial COMMITS
+    
     git add file_name           ->  agregar un archivo específico al staging area
     git add .                   ->  agregar todos los archivos al staging area
     git commit -m "comentario"  ->  sube los cambios a repositorio local
-    git log                     ->  para ver el historial COMMITS
+    
