@@ -1,5 +1,3 @@
-    git status -> para chequear el estado del repositorio
-
 /* INICIALIZAR DIRECTORIO DE TRABAJO*/
 
     git init    ->  inicializa el repositorio local
@@ -14,4 +12,9 @@
 
 /* DIRECTORIO DE TRABAJO -> STAGING ÁREA -> REPOSITORIO LOCAL */
 
-    git add -> 
+    git status                  -> info del estado actual del repositorio
+
+    git add file_name           ->  agregar un archivo específico al staging area
+    git add .                   ->  agregar todos los archivos al staging area
+    git commit -m "comentario"  ->  sube los cambios a repositorio local
+    git log                     ->  para ver el historial COMMITS
