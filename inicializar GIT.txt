@@ -1,0 +1,17 @@
+    git status -> para chequear el estado del repositorio
+
+/* INICIALIZAR DIRECTORIO DE TRABAJO*/
+
+    git init    ->  inicializa el repositorio local
+
+/* CONFIGURAR NOMBRE Y USUARIO ( ya está configurado) */
+
+    git config --global user.name "nombre_usuario"
+    git config --global user.email "email@usuario"
+
+    git config --global user.name ->  chequear usuario
+    git config --global user.email ->  chequear email
+
+/* DIRECTORIO DE TRABAJO -> STAGING ÁREA -> REPOSITORIO LOCAL */
+
+    git add -> 

@@ -1,0 +1,17 @@
+pwd (print working directory) -> imprime el directorio actual
+
+git --version       ->  versión del software
+ls                  ->  listar archivos del directorio
+ls -l               ->  listar con detalle
+ls -la              ->  listar con archivos ocultos
+clear               ->  limpia la terminal
+cd folder_name      ->  para ingresar a un directorio
+                    (si el nombre tiene espacios hay que agregar una barra Ej: Prueba\ GIT)
+cd ..               ->  para retorceder un directorio hacia atras
+cd /directorio      ->  para acceder directamente a una carpeta dentro de la ruta
+
+mkdir folder_name           ->  crear un directorio 
+rm -r folder_name           ->  eliminar un directorio 
+touch file_name.extension   ->  crear un archivo
+cat file_name.extension     ->  muestra el contenido del archivo
+rm file_name.extension      ->  eliminar un archivo
